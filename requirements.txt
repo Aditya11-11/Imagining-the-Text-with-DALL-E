@@ -1,4 +1,4 @@
-Python
-Streamlit
-PIL
-urllib.request
+streamlit
+pillow
+python-dotenv
+openai
